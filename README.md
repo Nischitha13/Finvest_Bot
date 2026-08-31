@@ -1,4 +1,4 @@
-# Finvest
+# Finvest AI Chatbot — A Personal Project
 
 A personal project built to understand how AI chatbots work end-to-end — from a frontend chat UI, through a backend API, to an LLM (AWS Bedrock/Claude) grounded in real backend data (DynamoDB).
 
